@@ -1,0 +1,14 @@
+#who-we-are-section {
+    background-color: black;
+    padding: 50px;
+    /* height: 300px; */
+    border-radius: 12px;
+}
+
+.whoWeAreHeader {
+    color: rgb(232, 231, 233);
+}
+
+#who-we-are-section h1 {
+    color: #fff;
+}

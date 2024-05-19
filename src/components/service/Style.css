@@ -1,0 +1,15 @@
+#service .serviceHeader, .sub-title {
+    padding-left: 50px;
+}
+
+.serviceHeader {
+    color: #560FB8;
+}
+
+.serviceBtn {
+    padding-left: 20px;
+}
+
+table td {
+    border-bottom: 2px solid #c9c7c7 !important;
+}
